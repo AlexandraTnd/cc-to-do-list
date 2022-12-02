@@ -1,0 +1,18 @@
+JavaScript Tutorial For Beginners videos: 
+https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET
+
+
+Article on "How to get started with web development": 
+https://dev.to/fabcodingzest/how-to-get-started-with-web-development-front-end-part-1-5c6h
+
+
+SoloLearn's JS tutorial: 
+https://www.sololearn.com/Play/JavaScript
+
+
+javascript.info: 
+https://javascript.info/
+
+
+If you see yourself more like a cat person, don't miss JSForCats: 
+http://jsforcats.com/

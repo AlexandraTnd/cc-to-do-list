@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDo List</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>ToDo List</h1>
+    <div id="menu">
+        <label for="new">Your new to-do</label>
+        <input type="text" id="new">
+        <button id="addButton">Add</button>
+    </div>
+    <div id="list">
+        <div class="done">
+            <span>this is a done task</span>
+            <button class="toggleStatus">not done</button>
+        </div>
+        <div>
+            <span>this is a NOT done task</span>
+            <button class="toggleStatus">done</button>
+        </div>
+    </div>
+    <div id="buttons">
+        <button id="mark">Complete all</button>
+    </div>
+
+    <div id="footer">
+        <input type="text" id="filterBox" placeholder="filter">
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
